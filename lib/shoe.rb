@@ -1,2 +1,4 @@
-class Shoe 
+class Shoe
+  
+  def
 end
